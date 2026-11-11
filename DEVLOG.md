@@ -1,3 +1,15 @@
+### 11/11/2026
+
+4:35 PM
+
+Okay I'm going for speed here, I want to get something up as soon as I can
+
+Going to use hard-coded values for now and then gradually add in the ability to edit stuff
+
+I should use sqlite for storage but again going for speed
+
+---
+
 ### 11/10/2026
 
 6:23 PM
