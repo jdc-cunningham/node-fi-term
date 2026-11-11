@@ -14,5 +14,5 @@ These deps are primarily for the display on a headless setup
 
 ## Run
 
-- `$cd src`
-- `$node run.js`
+- `$chmod +x openbox`
+- `sudo xinit ./openbox`

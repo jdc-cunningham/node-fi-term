@@ -8,6 +8,22 @@ Going to use hard-coded values for now and then gradually add in the ability to 
 
 I should use sqlite for storage but again going for speed
 
+5:00 PM
+
+Damn I didn't want to do this but I think I have to
+
+This pi is really old it's a Pi 3B using Debian Stretch I can't update the packages anymore/can't install what I need to do this project
+
+I'll have to back up all the files/download the db's and install a new OS
+
+I'm tempted to use this Pi for my camera instead of the Pi 4B with 4GB of RAM on it lmao
+
+Yeah I should do that actually
+
+Ugh... I'm being stupid... bunch of node_modules folder and they're transferring by SFTP
+
+I don't want to slow down... I'll just plug the other RPi in and work off of that one while these files transfer in the background
+
 ---
 
 ### 11/10/2026
