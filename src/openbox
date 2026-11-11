@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# start GUI
+openbox --config-file ~/.config/openbox/rc.xml --startup /home/pi/node-fi-term/src/run.js
