@@ -24,6 +24,22 @@ Ugh... I'm being stupid... bunch of node_modules folder and they're transferring
 
 I don't want to slow down... I'll just plug the other RPi in and work off of that one while these files transfer in the background
 
+5:28 PM
+
+Ugh... I wiped the Pi 4B thinking the SD card was corrupted but it was just the power cable damn oh well
+
+6:03 PM
+
+Damn I got side tracked... working on dumping the data off this Pi 3B including all the mysql tables
+
+6:27 PM
+
+Thinking about it though, this giant display, I'm going to just build a web app and show it as a kiosk
+
+Because scaling the terminal from a standard like 80 char wide and whatever rows to a 1920x1080 display that'll be problematic
+
+So I'll start a different repo for that as it's not part of this project which is meant to run on any of my computers
+
 ---
 
 ### 11/10/2026
